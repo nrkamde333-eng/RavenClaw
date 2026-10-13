@@ -1,0 +1,6 @@
+{
+  "name": "RavenClaw Web",
+  "description": "Local-first AI context compiler and cross-model handoff workspace for Gemini, ChatGPT, Claude, and DeepSeek.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
